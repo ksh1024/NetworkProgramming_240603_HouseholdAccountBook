@@ -18,5 +18,5 @@
    4. 프로젝트명/
       1. urls
          1. include('chart_test.urls')
-         2. data/data/json
-            1. 임시 데이터
+      2. data/data/json
+         1. 임시 데이터
